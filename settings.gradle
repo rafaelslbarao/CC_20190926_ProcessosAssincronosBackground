@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='CC_20190926_ProcessosAssincronosBackground'
